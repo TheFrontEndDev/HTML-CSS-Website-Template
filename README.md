@@ -1,1 +1,1 @@
-# HTML-CSS-Website-Template
+This project I'm making is a website template for a blog, I didn't use any JavaScript for this project pure html and css. This is just a message to say I'm only 13 yrs old and I just started a github account, this is my first project and I hope you like it!
